@@ -493,7 +493,7 @@ TODO
 优点：空间和时间效率都很高。
 缺点：随着存入的元素数量增加，误算率随之增加。
 
-* [《布隆过滤器 -- 空间效率很高的数据结构》](https://segmentfault.com/a/1190000002729689)
+* [《布隆过滤器 -- 空间效率很高的数据结构》](https://github.com/chenxh/architect-awesome/blob/master/02_alg/Bloom_Filter.md)
 * [《大量数据去重：Bitmap和布隆过滤器(Bloom Filter)》](https://blog.csdn.net/zdxiq000/article/details/57626464)
 * [《基于Redis的布隆过滤器的实现》](https://blog.csdn.net/qq_30242609/article/details/71024458)
 	* 基于 Redis 的 Bitmap 数据结构。
