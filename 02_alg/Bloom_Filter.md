@@ -8,7 +8,7 @@ Hash （哈希，或者散列）函数在计算机领域，尤其是数据快速
 一个应用是Hash table（散列表，也叫哈希表），是根据哈希值 (Key value) 而直接进行访问的数据结构。也就是说，它通过把哈希值映射到表中一个位置来访问记录，以加快查找的速度。下面是一个典型的 hash 函数 / 表示意图：
 
 
-![缓存](https://github.com/chenxh/interviews/blob/main/imgs/hash.webp "图片title")
+![缓存](https://raw.githubusercontent.com/chenxh/architect-awesome/master/imgs/hash.webp "图片title")
 
 哈希函数有以下两个特点：
 
